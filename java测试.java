@@ -1,7 +1,7 @@
 public class Demo{
 	public static void main(String[] args){
-		02020202
-		03030303
-		04040404
+		System.out.print("demo1demo0111");
+		System.out.print("demo1demo0111");
+		System.out.print("demo1demo0111");
 	}
 }
